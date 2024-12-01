@@ -110,3 +110,15 @@ document.getElementById('btn-donate-money3').addEventListener('click', function(
 
   
 });
+
+
+
+// balance reduction
+
+
+
+
+
+
+
+
